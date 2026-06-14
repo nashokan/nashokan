@@ -27,7 +27,7 @@ Computer-vision research for medical imaging and cranial screening along with CR
 
 ## Projects
 
-**Facial Asymmetry Analysis Tool — <link to repo>**<br>
+**Facial Asymmetry Analysis Tool — <https://github.com/nashokan/craniosure-research-assistant>**<br>
 A tool I built with a resident physician at the CRANI Lab to quantify facial asymmetry from images: MediaPipe Face Mesh landmarks with a KDTree-based midline-reflection method, midline-exclusion thresholds, pair-mapping tables, and regional asymmetry visualizations, wrapped in a Streamlit UI.
 
 **Craniosynostosis Literature Assistant — <link to repo>**<br>
