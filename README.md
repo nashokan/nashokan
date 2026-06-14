@@ -51,14 +51,13 @@ Ensemble machine-learning models on the Wisconsin Diagnostic dataset for tumor c
 
 ## Skills
 
-**Languages:** Python, C, C++, R, SQL
+**Languages:** Python, R, Java, JavaScript, SQL, C, HTML/CSS, Swift
 
-**ML & AI:** PyTorch, scikit-learn, Hugging Face Transformers, LangChain, LangGraph, RAG (hybrid retrieval + reranking), LoRA / QLoRA fine-tuning, CNNs, NLP, reinforcement learning, statistical modeling & experimental design, computer vision (SAM2, MediaPipe, Depth Anything V2, DINOv2, YOLOv8)
+**ML & AI:** PyTorch, TensorFlow, Keras, scikit-learn, LangChain, LangGraph, HuggingFace Transformers, LoRA/QLoRA, RAG, ChromaDB, FAISS, MediaPipe, SAM2, YOLOv8, LIME
 
-**Frameworks & Tools:** FastAPI, Streamlit, ChromaDB, LitServe, LangFuse, RAGAS, pandas, NumPy, OpenCV, Git
+**Frameworks & Tools:** FastAPI, Flask, React.js, Node.js, pandas, NumPy, matplotlib, seaborn, LangFuse, Streamlit, D3.js, Chart.js
 
-**Infrastructure:** Docker, CI/CD (GitHub Actions), HTCondor / CHTC, Lightning AI, vector databases
-
+**Infrastructure:** Docker, AWS, Azure, Git, PostgreSQL, MongoDB, LightningAI, REST APIs, ETL Pipelines, CI/CD, MLOps
 ---
 
 ## Activities
