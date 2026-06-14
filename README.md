@@ -33,7 +33,7 @@ A tool I built with a resident physician at the CRANI Lab to quantify facial asy
 **Craniosynostosis Literature Assistant — <https://github.com/nashokan/FacialAsymmetry>**<br>
 A retrieval-augmented (RAG) chatbot over the published craniosynostosis research literature (PubMed). Hybrid retrieval (semantic + BM25) with cross-encoder reranking, grounded answers with citations, a FastAPI + ChromaDB backend, a Streamlit UI, and an LLM-as-judge faithfulness evaluation. Built entirely on public data.
 
-**Breast Cancer Diagnostic — <link to repo>**<br>
+**Breast Cancer Diagnostic — <https://github.com/nashokan/breast-cancer-diagnostic/tree/main/breast-cancer-diagnostic>**<br>
 Ensemble machine-learning models on the Wisconsin Diagnostic dataset for tumor classification.
 
 ## Skills
