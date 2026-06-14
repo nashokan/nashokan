@@ -30,7 +30,7 @@ Computer-vision research for medical imaging and cranial screening along with CR
 **Facial Asymmetry Analysis Tool — <https://github.com/nashokan/craniosure-research-assistant>**<br>
 A tool I built with a resident physician at the CRANI Lab to quantify facial asymmetry from images: MediaPipe Face Mesh landmarks with a KDTree-based midline-reflection method, midline-exclusion thresholds, pair-mapping tables, and regional asymmetry visualizations, wrapped in a Streamlit UI.
 
-**Craniosynostosis Literature Assistant — <link to repo>**<br>
+**Craniosynostosis Literature Assistant — <https://github.com/nashokan/FacialAsymmetry>**<br>
 A retrieval-augmented (RAG) chatbot over the published craniosynostosis research literature (PubMed). Hybrid retrieval (semantic + BM25) with cross-encoder reranking, grounded answers with citations, a FastAPI + ChromaDB backend, a Streamlit UI, and an LLM-as-judge faithfulness evaluation. Built entirely on public data.
 
 **Breast Cancer Diagnostic — <link to repo>**<br>
