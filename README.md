@@ -1,17 +1,17 @@
 <div align="center">
-I'm Nikhil Ashokan
+<i> I'm Nikhil Ashokan</i>
 
-A CS + Statistics student who builds applied ML and computer-vision systems end to end.
+A CS + Statistics student who is interested in building applied ML and computer-vision systems end to end.
 
-Junior pursuing a B.S. in Computer Science and Statistics at the University of Wisconsin–Madison (Dean's List).
+I'm a Junior pursuing a B.S. in Computer Science and Statistics at the University of Wisconsin–Madison.
 
 </div>
 
-🎯 I'm a junior in CS + Statistics. I'm an ML Research Intern at CranioSure working on medical computer vision, and I collaborate with a resident physician at the CRANI Lab to build a clinical facial-analysis tool. On the side I build RAG and agentic systems for literature and document intelligence.
+🎯 I'm a junior in CS + Statistics. I'm an ML Research Intern at CranioSure working on medical computer vision, and I collaborate with a resident physician at the CRANI Lab to build an innovative clinical facial-analysis tool. On the side, I build evaluation-driven RAG and agentic LLM systems — hybrid retrieval, reranking, grounded generation, and observability — for different applications, solving real world issues that garner a real sizable inference that can improve our understanding of data through ML pipelines e.t.c
 
-🌱 Fields of interest: machine learning, computer vision, retrieval-augmented generation, medical imaging, neuromorphic computing.
+🌱 Fields of interest: machine learning, computer vision, retrieval-augmented generation, medical imaging, LLM systems & Agentic Workflows , Software engineering
 
-📫 Reach me: <your email> · <your LinkedIn URL>
+📫 Reach me: nashokan@gmail.com · <www.linkedin.com/in/nikhil-ashokan-8aa980300>
 
 🔭 Currently building: a craniosynostosis literature assistant (RAG) and an agentic document-intelligence pipeline.
 
@@ -19,7 +19,9 @@ Junior pursuing a B.S. in Computer Science and Statistics at the University of W
 Experience
 
 ML Research Intern — CranioSure
-Computer-vision research for medical imaging and cranial screening.
+Computer-vision research for medical imaging and cranial screening along with CRANI LAB research fellow.
+Data Science Intern - Mictoroturn IT systems
+CS Peer Mentor cs300
 
 
 Projects
@@ -49,11 +51,5 @@ Infrastructure: Docker, CI/CD (GitHub Actions), HTCondor / CHTC, Lightning AI, v
 Activities
 
 
-Neuromorphic Computing Club, UW-Madison — <your role>
+Neuromorphic Computing Club, UW-Madison — <Project lead> 
 
-
-<!--
-Publish: create a PUBLIC repo named exactly "nashokan", add this as README.md.
-Fill the <...> placeholders, and cross-check the Skills list against your real resume -
-cut anything you wouldn't want to be quizzed on in an interview.
--->
