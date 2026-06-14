@@ -55,10 +55,9 @@ Ensemble machine-learning models on the Wisconsin Diagnostic dataset for tumor c
 
 **ML & AI:** PyTorch, TensorFlow, Keras, scikit-learn, LangChain, LangGraph, HuggingFace Transformers, LoRA/QLoRA, RAG, ChromaDB, FAISS, MediaPipe, SAM2, YOLOv8, LIME
 
-**Frameworks & Tools:** FastAPI, Flask, React.js, Node.js, pandas, NumPy, matplotlib, seaborn, LangFuse, Streamlit, D3.js, Chart.js
+**Frameworks & Tools:** FastAPI, Flask, React.js, Node.js, pandas, NumPy, matplotlib, seaborn, LangFuse, Streamlit, D3.js, Chart.js  Docker, AWS, Azure, Git, PostgreSQL, MongoDB, LightningAI, REST APIs, ETL Pipelines, CI/CD, MLOps
 
 **Infrastructure:** Docker, AWS, Azure, Git, PostgreSQL, MongoDB, LightningAI, REST APIs, ETL Pipelines, CI/CD, MLOps
----
 
 ## Activities
 
