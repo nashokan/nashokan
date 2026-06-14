@@ -7,7 +7,7 @@ I'm a Junior pursuing a B.S. in Computer Science and Statistics at the Universit
 
 </div>
 
-🎯 I'm a junior in CS + Statistics. I'm an ML Research Intern at CranioSure working on medical computer vision, and I collaborate with a resident physician at the CRANI Lab to build an innovative clinical facial-analysis tool. On the side, I build evaluation-driven RAG and agentic LLM systems — hybrid retrieval, reranking, grounded generation, and observability — for different applications, solving real world issues that garner a real sizable inference that can improve our understanding of data through ML pipelines e.t.c
+🎯 I'm a junior in CS + Statistics. I'm an ML Research Intern at CranioSure working on medical computer vision, and I collaborate with a resident physician at the CRANI Lab to build an innovative clinical facial-analysis tool. On the side, I build evaluation-driven RAG and agentic LLM systems including hybrid retrieval, reranking, grounded generation, and observability  for various applications,and solving real world issues that garner a real sizable inference that can improve our understanding of data through ML pipelines
 
 🌱 Fields of interest: machine learning, computer vision, retrieval-augmented generation, medical imaging, LLM systems & Agentic Workflows , Software engineering
 
