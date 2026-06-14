@@ -12,7 +12,7 @@ I'm a Junior pursuing a B.S. in Computer Science and Statistics at the Universit
 
 🌱 Fields of interest: machine learning, computer vision, retrieval-augmented generation, medical imaging, LLM systems & Agentic Workflows , Software engineering
 
-📫 Reach me: nashokan@gmail.com · [www.linkedin.com/in/nikhil-ashokan-8aa980300](https://www.linkedin.com/in/nikhil-ashokan-8aa980300)
+📫 Reach me: nashokan@wisc.edu · [www.linkedin.com/in/nikhil-ashokan-8aa980300](https://www.linkedin.com/in/nikhil-ashokan-8aa980300)
 
 🔭 Currently building: a craniosynostosis literature assistant (RAG) and an agentic document-intelligence pipeline.
 
