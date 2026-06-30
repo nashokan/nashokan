@@ -23,7 +23,7 @@ Computer-vision research for medical imaging and cranial screening along with CR
 
 **Data Science Intern — Microturn Systems**
 
-**CS Peer Mentor — CS 300**
+**CS Peer Mentor — CS 540**
 
 ## Projects
 
