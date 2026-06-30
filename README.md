@@ -19,7 +19,7 @@ I'm a Junior pursuing a B.S. in Computer Science and Statistics at the Universit
 ## Experience
 
 **ML Research Intern — CranioSure**<br>
-Computer-vision research for medical imaging and cranial screening along with CRANI LAB research fellow.
+Computer-vision research for medical imaging under Professor Maja Waldron and cranial screening along with CRANI LAB research fellow.
 
 **Data Science Intern — Microturn Systems**
 
